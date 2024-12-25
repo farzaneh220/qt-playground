@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d616bbc9a95c40f1b75c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cutecrashcourse",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cutecrashcourse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutecrashcourse-Debug-8719bb866d8b548e3bb9.json",
+					"name" : "cutecrashcourse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cutecrashcourse_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutecrashcourse_autogen-Debug-71f003ba990e5f361968.json",
+					"name" : "cutecrashcourse_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug",
+		"source" : "/home/Kazazi/farzantest/cute/cutecrashcourse"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,8 @@
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/cutecrashcourse.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/install.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/Kazazi/farzantest/cute/cutecrashcourse/build/Desktop-Debug/CMakeFiles/cutecrashcourse_autogen.dir

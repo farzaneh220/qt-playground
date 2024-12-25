@@ -1,0 +1,11 @@
+# ninja log v6
+4	713	1735113515252691988	practice_autogen/timestamp	bad6ea31d13d1742
+4	713	1735113515252691988	practice_autogen/mocs_compilation.cpp	bad6ea31d13d1742
+4	713	1735113515252691988	practice_autogen/include/ui_test1.h	bad6ea31d13d1742
+4	713	1735113515252691988	/home/Kazazi/farzantest/practice/build/Desktop-Debug/practice_autogen/timestamp	bad6ea31d13d1742
+4	713	1735113515252691988	/home/Kazazi/farzantest/practice/build/Desktop-Debug/practice_autogen/mocs_compilation.cpp	bad6ea31d13d1742
+4	713	1735113515252691988	/home/Kazazi/farzantest/practice/build/Desktop-Debug/practice_autogen/include/ui_test1.h	bad6ea31d13d1742
+718	5559	1735113515268692193	CMakeFiles/practice.dir/test1.cpp.o	3b265d8bc9dd68c1
+717	6046	1735113515267692180	CMakeFiles/practice.dir/practice_autogen/mocs_compilation.cpp.o	e14228ecdd26cf2a
+717	6374	1735113515267692180	CMakeFiles/practice.dir/main.cpp.o	dee5987650db6a15
+6375	6890	1735113520925764570	practice	ce0247ba531d10ae
