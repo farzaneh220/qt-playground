@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e663f9e2d3c77a9d6927.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cutecrashcourse",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cutecrashcourse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutecrashcourse-Debug-e9d64c74b56d9b73fd8d.json",
+					"name" : "cutecrashcourse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cutecrashcourse_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutecrashcourse_autogen-Debug-c843ec2d7098a9ff70f1.json",
+					"name" : "cutecrashcourse_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cutecrashcourse_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutecrashcourse_autogen_timestamp_deps-Debug-bc6b11d1b2e547eee536.json",
+					"name" : "cutecrashcourse_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "D:/cute/cutecrashcourse"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

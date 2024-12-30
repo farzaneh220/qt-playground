@@ -1,0 +1,9 @@
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cutecrashcourse.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cutecrashcourse_autogen_timestamp_deps.dir
+D:/cute/cutecrashcourse/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cutecrashcourse_autogen.dir
